@@ -6,7 +6,4 @@
 
 Demo：[1ove.tk](http://1ove.tk/)
 
-## 用法
-
-`http://1ove.tk/api.php?url={markdown文件链接}`
 
